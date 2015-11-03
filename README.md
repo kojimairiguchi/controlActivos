@@ -1,5 +1,5 @@
 # Control de Activo Fijos
-
+****
 Aplicación y gestion de activos fijos, utilizable para arriendo/prestamo o entregas:
 
 ### Core CODE

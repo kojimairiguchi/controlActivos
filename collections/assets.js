@@ -1,7 +1,7 @@
 Assets = new Mongo.Collection('assets')
 
 Assets.allow({
-  insert: function(userId, userLvl, doc) {
+  insert: function(userId, doc) {
     return !!userId;
   }
 });
